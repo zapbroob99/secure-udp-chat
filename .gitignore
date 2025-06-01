@@ -148,6 +148,9 @@ venv.bak/
 .dmypy.json
 dmypy.json
 
+server_signing_private.pem
+server_signing_public.pem
+
 # Pyre type checker
 .pyre/
 
